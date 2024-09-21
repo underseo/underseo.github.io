@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://underseo.github.io/sitemap.html.gz
+Sitemap: https://underseo.github.io/app/sitemap.html.gz
+Sitemap: https://underseo.github.io/assets/sitemap.html.gz
+Sitemap: https://underseo.github.io/css/sitemap.html.gz
+Sitemap: https://underseo.github.io/data/sitemap.html.gz
+Sitemap: https://underseo.github.io/includes/sitemap.html.gz
+Sitemap: https://underseo.github.io/item/sitemap.html.gz
+Sitemap: https://underseo.github.io/src/sitemap.html.gz
